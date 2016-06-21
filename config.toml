@@ -1,4 +1,4 @@
-baseurl = "https://joelsonoda.github.io/path"
+baseurl = "https://joelsonoda.github.io/path/"
 languageCode = "en-us"
 title = "Welcome to Path"
 canonifyurls = true
