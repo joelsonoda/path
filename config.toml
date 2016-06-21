@@ -1,6 +1,7 @@
-baseurl = "http://www.pathboise.org/"
+baseurl = "https://joelsonoda.github.io/path"
 languageCode = "en-us"
 title = "Welcome to Path"
+canonifyurls = true
 
 [params]
 
